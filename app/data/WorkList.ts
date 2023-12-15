@@ -17,7 +17,7 @@ export const WorkList: Work[] = [
     details: {
       content: "「簡潔に」を意識して作ったポートフォリオサイト。",
       challenge: "初個人開発 / react-vertical-timelineとの格闘",
-      outlook: "タイムラインにアニメーション適用 / 更新",
+      outlook: " サイトの更新 / DBをFirebaseに格納",
       language: "Next.js / TypeScript",
       github: "https://github.com/yuto99999/yuto-portfolio",
     },
