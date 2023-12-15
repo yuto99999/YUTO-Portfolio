@@ -21,7 +21,7 @@ const SkillCard: React.FC<TProps> = ({ skillCard }) => {
           <Image
             width={130}
             height={130}
-            src={`../img/Skill/${skillCard.imagePath}`}
+            src={`../img/skill/${skillCard.imagePath}`}
             alt="skillImage"
           />
         </Box>
