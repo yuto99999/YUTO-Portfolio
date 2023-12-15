@@ -24,7 +24,7 @@ export const WorkList: Work[] = [
   },
   {
     imagePath: "SeikeiCircle.png",
-    title: "成蹊大学サークル紹介サイト  ",
+    title: "成蹊大学サークル紹介サイト",
     details: {
       content:
         "大学1年時に自分に合ったサークルを見つける難しさ実感し、その経験から生まれたサークル一覧サイト",
@@ -34,6 +34,18 @@ export const WorkList: Work[] = [
         "DBをsupabaseに格納 / サークルだけではなく体育会の掲載 / 大学側との話し合い / デプロイ",
       language: "Next.js / TypeScript",
       github: "https://github.com/Peach-Tech0927/seikei_org_list",
+    },
+  },
+  {
+    imagePath: "TNA-APP.png",
+    title: "出退勤管理アプリ TNA-APP",
+    details: {
+      content:
+        "大学1年時に自分に合ったサークルを見つける難しさ実感し、その経験から生まれたサークル一覧サイト",
+      challenge: "Firebaseに初挑戦 / Vercelでデプロイ",
+      outlook: "機能の修正と追加",
+      language: "React / TypeScript",
+      github: "https://github.com/yuto99999/tna-app",
     },
   },
 ];
