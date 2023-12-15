@@ -10,7 +10,7 @@ export function Introduction() {
         </StyledSubtitle>
       </StyledContainer>
       <StyledImage>
-        <StyledAvatar src="/img/about/yuto1.jpg" />
+        <StyledAvatar src="/img/About/yuto1.jpg" />
       </StyledImage>
     </StyledIntroBox>
   );
