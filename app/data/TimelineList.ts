@@ -39,7 +39,8 @@ export const TimelineList: timeLine[] = [
   },
   {
     title: "フロントエンドに感動",
-    description: "HTML,CSSを使ったチュートリアル動画で感動 / ものづくりに目覚めエンジニアになることを決意",
+    description:
+      "HTML,CSSを使ったチュートリアル動画で感動 / ものづくりに目覚めエンジニアになることを決意",
     date: "2023/6",
   },
   {
@@ -57,6 +58,12 @@ export const TimelineList: timeLine[] = [
     description:
       "Peach.Techのメンバーとチーム開発 / 学祭で学長に紹介 / 大きなスキルアップ",
     date: "2023/10-now",
+  },
+  {
+    title: "出退勤管理アプリ作成",
+    description:
+      "個人開発 / FireBase初挑戦",
+    date: "2023/12",
   },
 ];
 
