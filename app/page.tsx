@@ -2,7 +2,10 @@
 import { useEffect, useState } from "react";
 import { keyframes, styled } from "@mui/material";
 import Animation from "./componets/molecule/Animation";
-import Border from "./componets/atmos/Border";
+import Header from "./componets/organisms/Header";
+import Introduction from "./componets/organisms/Introduction";
+import TabPanel from "./componets/organisms/TabPanel";
+import Footer from "./componets/organisms/Footer";
 
 export default function Home() {
   const [showText, setShowText] = useState(true);
@@ -38,7 +41,10 @@ export default function Home() {
       {!showText && pageLoaded && (
         <>
           <WelcomeContainer>
-            <Border />
+            <Header />
+            <Introduction />
+            <TabPanel />
+            <Footer />
           </WelcomeContainer>
         </>
       )}
