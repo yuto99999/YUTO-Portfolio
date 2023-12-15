@@ -41,7 +41,7 @@ export const WorkList: Work[] = [
     title: "出退勤管理アプリ TNA-APP",
     details: {
       content:
-        "大学1年時に自分に合ったサークルを見つける難しさ実感し、その経験から生まれたサークル一覧サイト",
+        "「もし自分が管理者だったら、、、」と考え作成した、出退勤の管理に関する機能を複数兼ね備えたアプリ",
       challenge: "Firebaseに初挑戦 / Vercelでデプロイ",
       outlook: "機能の修正と追加",
       language: "React / TypeScript",
