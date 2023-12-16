@@ -40,7 +40,7 @@ export const TimelineList: timeLine[] = [
   {
     title: "フロントエンドに感動",
     description:
-      "HTML,CSSを使ったチュートリアル動画で感動 / ものづくりに目覚めエンジニアになることを決意",
+      "HTML,CSSを使ったチュートリアル動画がきっかけ / ものづくりに目覚めエンジニアになることを決意",
     date: "2023/6",
   },
   {
